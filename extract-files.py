@@ -16,6 +16,7 @@ from extract_utils.main import (
 namespace_imports = [
     'device/motorola/lamu',
     'hardware/mediatek',
+    'hardware/mediatek/libion_mtk',
     'vendor/motorola/mt6768-common',
 ]
 
